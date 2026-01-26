@@ -42,25 +42,10 @@
   </table>
 </p>
 
+<img width="2500" height="1800" alt="assets (7)" src="https://github.com/user-attachments/assets/7f4ba332-9555-4598-adf7-43f14fed6011" />
+<img width="2500" height="1800" alt="assets (8)" src="https://github.com/user-attachments/assets/8da7c09e-e128-454b-98fc-a1562672dd20" />
+<img width="2500" height="1800" alt="assets (9)" src="https://github.com/user-attachments/assets/c789aff8-995b-480d-96fb-a824ff99f272" />
 
-## 🌐 Connect With Me
-
-<p align="center">
-  <table>
-    <tr>
-      <th>Platform</th>
-      <th>Link</th>
-    </tr>
-    <tr>
-      <td><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="20" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
-      <td>&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/meryll-klaryze-polaron-671b4b379/">Meryll Klaryze Polaron</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
-    </tr>
-    <tr>
-      <td><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="20" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
-      <td>&nbsp;&nbsp;&nbsp;<a href="https://instagram.com/_klryz">@_klryz</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
-    </tr>
-  </table>
-</p>
 
 
 ---
@@ -94,4 +79,23 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=k00617500&show_icons=true&locale=en&layout=compact&theme=tokyonight"/>
+</p>
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <table>
+    <tr>
+      <th>Platform</th>
+      <th>Link</th>
+    </tr>
+    <tr>
+      <td><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="20" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+      <td>&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/meryll-klaryze-polaron-671b4b379/">Meryll Klaryze Polaron</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+    </tr>
+    <tr>
+      <td><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="20" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+      <td>&nbsp;&nbsp;&nbsp;<a href="https://instagram.com/_klryz">@_klryz</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+    </tr>
+  </table>
 </p>
