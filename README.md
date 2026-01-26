@@ -52,19 +52,16 @@
       <th>Link</th>
     </tr>
     <tr>
-      <td><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="20" /> LinkedIn</td>
-      <td><a href="https://linkedin.com/in/meryll klaryze polaron">Meryll Klaryze Polaron</a></td>
+      <td><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="20" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+      <td>&nbsp;&nbsp;&nbsp;<a href="https://linkedin.com/in/meryll klaryze polaron">Meryll Klaryze Polaron</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
     </tr>
     <tr>
-      <td><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="20" /> Instagram</td>
-      <td><a href="https://instagram.com/_klryz">@_klryz</a></td>
-    </tr>
-    <tr>
-      <td><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" height="20" /> Topcoder</td>
-      <td><a href="https://www.topcoder.com/members/5713">Profile 5713</a></td>
+      <td><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="20" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+      <td>&nbsp;&nbsp;&nbsp;<a href="https://instagram.com/_klryz">@_klryz</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
     </tr>
   </table>
 </p>
+
 
 ---
 
