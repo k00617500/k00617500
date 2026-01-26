@@ -53,7 +53,7 @@
     </tr>
     <tr>
       <td><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="20" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
-      <td>&nbsp;&nbsp;&nbsp;<a href="https://linkedin.com/in/meryll klaryze polaron">Meryll Klaryze Polaron</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+      <td>&nbsp;&nbsp;&nbsp;<a href="[https://linkedin.com/in/meryll klaryze polaron](https://www.linkedin.com/in/meryll-klaryze-polaron-671b4b379/)">Meryll Klaryze Polaron</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
     </tr>
     <tr>
       <td><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="20" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
